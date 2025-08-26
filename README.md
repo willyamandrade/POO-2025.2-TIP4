@@ -8,9 +8,9 @@ Este repositório foi criado com o objetivo de disponibilizar os exercícios pro
 **Matrícula:** 20241321000018
 
 ## Listas
-**Lista 01:** Capítulo 03 (Estrutura Sequencial)\
-**Lista 02:** Capítulos 04 (Estrutura Condicional) e 05 (Estrutura de Repetição)\
-**Lista 03:** Capítulos 06 (Vetor) e 08 (Sub-rotina)
+**Lista 01:** **Capítulo 03 (Estrutura Sequencial):** páginas 36-41, 50 e 51.\
+**Lista 02:** **Capítulo 04 (Estrutura Condicional):** páginas 61-71 e 90. **Capítulo 05 (Estrutura de Repetição):** páginas 117-126, 146 e 147.\
+**Lista 03:** **Capítulo 06 (Vetor):** páginas 159-171. **Capítulo 08 (Sub-rotina):** páginas 277-283.
 
 ## Informações
 **Professor responsável:** Roger Moura Sarmento\
