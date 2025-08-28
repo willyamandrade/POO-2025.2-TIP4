@@ -1,6 +1,6 @@
 # Repositório POO-2025.2-TIP4
 
-## Descrição
+## 📋 Descrição
 
 <div align="justify">
 
@@ -10,11 +10,11 @@ Para resolver esses exercícios, foi utilizado a linguagem de programação **Ja
 
 </div>
 
-## Membros da Equipe
+## 🧑‍💻 Membros da Equipe
 **Nome:** Willyam Andrade Medeiros\
 **Matrícula:** 20241321000018
 
-## Listas
+## 🗒️ Listas
 
 ### Lista 01
 | Capítulos | Páginas |
@@ -33,7 +33,7 @@ Para resolver esses exercícios, foi utilizado a linguagem de programação **Ja
 | **06 (Vetor)** | 159-171 |
 | **08 (Sub-rotina)** | 277-283 |
 
-## Informações
+## ℹ️ Informações
 **Professor responsável:** Roger Moura Sarmento\
 **Linguagem de programação:** Java\
 **IDE Utilizada:** Eclipse IDE
