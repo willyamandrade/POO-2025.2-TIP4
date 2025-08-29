@@ -13,7 +13,7 @@ Para resolver esses exercícios, foi utilizado a linguagem de programação **Ja
 ## 🧑‍💻 Membros da Equipe
 - **Nome:** Willyam Andrade Medeiros
 - **Matrícula:** 20241321000018
-
+- **Github:** [willyam.a](https://github.com/willyamandrade)
 ## 🗒️ Listas
 
 ### Lista 01
