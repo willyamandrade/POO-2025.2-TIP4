@@ -1,7 +1,7 @@
 # Enunciado dos exercícios
 
-**Resolvidos:** questões de 1 a 10.\
-**Propostos:** questões de 1 a 5.
+**Resolvidos:** questões de 1 a 10 que possuem soluções dadas no livro.\
+**Propostos:** questões de 1 a 5 propostas pelo livro.
 
 | Questão | Enunciado dos exercícios resolvidos |
 | :--:  | :-- | 
@@ -23,4 +23,5 @@
 | 3 | Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo. Sabe-se que o segundo número não pode ser zero, portanto, não é necessário se preocupar com validações. |
 | 4 | Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda. |
 | 5 | Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%. |
+
 
