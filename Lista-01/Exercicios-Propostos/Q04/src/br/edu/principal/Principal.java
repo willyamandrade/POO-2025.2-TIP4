@@ -14,9 +14,9 @@ public class Principal {
 		System.out.println("Digite o segundo número: ");
 		n2 = sc.nextDouble();
 		
-		result = n1*2+n2*3/5;
+		result = (n1*2+n2*3)/5;
 		
-		System.out.println("Resultado da média ponderada: (" + n1 + "*2 + " + n2 + "*3)/5: " + result);
+		System.out.println("Resultado da média ponderada: " + result);
 	}
 
 }
