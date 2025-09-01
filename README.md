@@ -43,13 +43,23 @@ POO-2025.2-TIP4/
 │   └── Exercicios-Resolvidos/
 │   └── README.md
 ├── Lista-02/
-│   ├── Exercicios-Propostos/
-│   └── Exercicios-Resolvidos/
-│   └── README.md
+│   ├── CAP04/
+│   │    ├── Exercicios-Propostos/
+│   │    └── Exercicios-Resolvidos/
+│   │    └── README.md
+│   └── CAP05/
+│   │    ├── Exercicios-Propostos/
+│   │    └── Exercicios-Resolvidos/
+│   │    └── README.md
 ├── Lista-03/
-│   ├── Exercicios-Propostos/
-│   └── Exercicios-Resolvidos/
-│   └── README.md
+│   ├── CAP06/
+│   │    ├── Exercicios-Propostos/
+│   │    └── Exercicios-Resolvidos/
+│   │    └── README.md
+│   └── CAP08/
+│   │    ├── Exercicios-Propostos/
+│   │    └── Exercicios-Resolvidos/
+│   │    └── README.md
 └── README.md
 ```
 
