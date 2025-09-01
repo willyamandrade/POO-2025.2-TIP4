@@ -10,7 +10,7 @@ Para resolver esses exercícios, foi utilizado a linguagem de programação **Ja
 
 </div>
 
-## 🧑‍💻 Membros da Equipe
+## 👨‍💻 Membros da Equipe
 - **Nome:** Willyam Andrade Medeiros
 - **Matrícula:** 20241321000018
 - **Github:** [willyam.a](https://github.com/willyamandrade)
