@@ -4,7 +4,7 @@
 
 <div align="justify">
 
-Este repositório foi criado com o objetivo de disponibilizar e atualizar os exercícios propostos e resolvidos dos *capítulos 03, 04, 05, 06* e *08* do livro ![Fundamentos da Programação de Computadores: Algoritmos, Pascal, C/C++ e Java (2012)](https://archive.org/details/fundamentos-da-programacao-de-computadores-algoritmos-pascal-c-c-padrao-ansi-e-java-pdfdrive/mode/2up) escrito por *Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos*.
+Este repositório foi criado com o objetivo de disponibilizar e atualizar os exercícios propostos e resolvidos dos *capítulos 03, 04, 05, 06* e *08* do livro [Fundamentos da Programação de Computadores: Algoritmos, Pascal, C/C++ e Java (2012)](https://archive.org/details/fundamentos-da-programacao-de-computadores-algoritmos-pascal-c-c-padrao-ansi-e-java-pdfdrive/mode/2up) escrito por *Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos*.
 
 Para resolver esses exercícios, foi utilizado a linguagem de programação **Java**, ensinada na disciplina da turma do TIP4 no período 2025.2 no IFCE-MPE, a Programação Orientada a Objetos.
 
