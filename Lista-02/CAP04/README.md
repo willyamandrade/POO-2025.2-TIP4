@@ -20,8 +20,7 @@
 
 | Questão | Enunciado dos exercícios propostos |
 | :--:  | :-- | 
-1| Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a
-m|ensagem de aprovado ou reprovado, considerando para aprovação média 7.
+1| Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a mensagem de aprovado ou reprovado, considerando para aprovação média 7.
 2| Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra na tabela a seguir: MÉDIA ARITMÉTICA, MENSAGEM: 0,0 <= m < 3,0 = Reprovado, 3,0 <= m < 7,0 = Exame, 7,0 <= m <= 10,0 = Aprovado
 3| Faça um programa que receba dois números e mostre o menor.
 4| Faça um programa que receba três números e mostre o maior.
