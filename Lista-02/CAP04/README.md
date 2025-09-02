@@ -17,23 +17,12 @@
 9| Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora:minuto.
 10| Faça um progrma que determine a data cronologicamente maior entre duas datas fornecidas pelo usuário. Cada data deve ser composta por três valores inteiros, em que o primeiro representa o dia, o segundo, o mês e o terceiro, o ano.
 
-1. Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a
-mensagem de aprovado ou reprovado, considerando para aprovação média 7.
-2. Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra
-na tabela a seguir:
-MÉDIA ARITMÉTICA |MENSAGEM
-0,0 <= m < 3,0   |Reprovado
-3,0 <= m < 7,0   |Exame
-7,0 <= m <= 10,0 |Aprovado
 
-3. Faça um programa que receba dois números e mostre o menor.
-4. Faça um programa que receba três números e mostre o maior.
-5. Faça um programa que receba dois números e execute as operações listadas a seguir, de acordo com a escolha
-do usuário.
-ESCOLHA DO USUÁRIO |OPERAÇÃO
-1                  |Média entre os números digitados
-2                  |Diferença do maior pelo menor
-3                  |Produto entre os números digitados
-4                  |Divisão do primeiro pelo segundo
-Se a opção digitada for inválida, mostre uma mensagem de erro e termine a execução do programa.
-Lembre-se de que, na operação 4, o segundo número deve ser diferente de zero.
+| Questão | Enunciado dos exercícios propostos |
+| :--:  | :-- | 
+1| Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a
+m|ensagem de aprovado ou reprovado, considerando para aprovação média 7.
+2| Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra na tabela a seguir: MÉDIA ARITMÉTICA, MENSAGEM: 0,0 <= m < 3,0 = Reprovado, 3,0 <= m < 7,0 = Exame, 7,0 <= m <= 10,0 = Aprovado
+3| Faça um programa que receba dois números e mostre o menor.
+4| Faça um programa que receba três números e mostre o maior.
+5| Faça um programa que receba dois números e execute as operações listadas a seguir, de acordo com a escolha do usuário. ESCOLHA DO USUÁRIO, OPERAÇÃO: 1 = Média entre os números digitados, 2 = Diferença do maior pelo menor, 3 = Produto entre os números digitados, 4 = Divisão do primeiro pelo segundo. Se a opção digitada for inválida, mostre uma mensagem de erro e termine a execução do programa. Lembre-se de que, na operação 4, o segundo número deve ser diferente de zero.
