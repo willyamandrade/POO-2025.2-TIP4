@@ -10,7 +10,10 @@ public class Principal {
 		String turno,categoria;
 		Scanner sc = new Scanner(System.in);
 		
+		turno = "";
+		categoria = "";
 		sal_min = 450;
+		
 		for (cont=1;cont<=10;cont++) {
 			
 			System.out.println("Digite o código de funcionário: ");
@@ -18,18 +21,26 @@ public class Principal {
 			
 			System.out.println("Digite o número de horas trabalhadas no mês: ");
 			nht = sc.nextInt();
-				
-			do {
+			
+			System.out.println("Digite o turno do funcionário (M, V ou N): ");
+			System.out.println("M = Manhã\nV = Vespertino\nN = Noturno");
+			turno = sc.next().toUpperCase();
+			
+			System.out.println("Digite a categoria do funcionário (G ou O): ");
+			System.out.println("G = Gerente\nO = Operário");
+			categoria = sc.next().toUpperCase();
+			
+			while (!turno.equals("M") & !turno.equals("V") & !turno.equals("N")) {
 				System.out.println("Digite o turno do funcionário (M, V ou N): ");
 				System.out.println("M = Manhã\nV = Vespertino\nN = Noturno");
 				turno = sc.next().toUpperCase();
-			} while (turno!="M" & turno!="V" & turno!="N");
+			} 
 			
-			do {
+			while (!categoria.equals("G") & !categoria.equals("O")) {
 				System.out.println("Digite a categoria do funcionário (G ou O): ");
 				System.out.println("G = Gerente\nO = Operário");
 				categoria = sc.next().toUpperCase();
-			} while (categoria!="G" & categoria!="O");
+			}
 			
 			if (categoria=="G"){
 				if (turno=="N") {
@@ -58,12 +69,14 @@ public class Principal {
 				aux = sal_inicial*0.05;
 			}
 			sal_final = sal_inicial+aux;
-			System.out.println("Código do Funcionário: " + codigo);
+			
+			System.out.println("\nCódigo do Funcionário: " + codigo);
+			System.out.println("-----------------------------------------------");
 			System.out.println("Nº de horas trabalhadas no mês: " + nht);
-			System.out.println("Valor: " + valor);
+			System.out.println("Valor das horas trabalhadas no mês: " + valor);
 			System.out.println("Valor do salário inicial: " + sal_inicial);
 			System.out.println("Valor do áuxilio alimentação: " + aux);
-			System.out.println("Valor do salário final: " + sal_final);
+			System.out.println("Valor do salário final: " + sal_final + "\n");
 		}
 
 	}
