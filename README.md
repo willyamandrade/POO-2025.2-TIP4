@@ -40,16 +40,16 @@ Para resolver esses exercícios, foi utilizado a linguagem de programação **Ja
 POO-2025.2-TIP4/
 ├── Lista-01/
 │   ├── Exercicios-Propostos/
-│   └── Exercicios-Resolvidos/
+│   ├── Exercicios-Resolvidos/
 │   └── README.md
 ├── Lista-02/
 │   ├── CAP04/
 │   │    ├── Exercicios-Propostos/
-│   │    └── Exercicios-Resolvidos/
+│   │    ├── Exercicios-Resolvidos/
 │   │    └── README.md
 │   └── CAP05/
 │        ├── Exercicios-Propostos/
-│        └── Exercicios-Resolvidos/
+│        ├── Exercicios-Resolvidos/
 │        └── README.md
 ├── Lista-03/
 │   ├── CAP06/
