@@ -4,7 +4,7 @@
 
 <div align="justify">
 
-Este repositório foi criado com o objetivo de disponibilizar e atualizar os exercícios propostos e resolvidos dos *capítulos 03, 04, 05, 06* e *08* do livro [Fundamentos da Programação de Computadores: Algoritmos, Pascal, C/C++ e Java (2012)](https://archive.org/details/fundamentos-da-programacao-de-computadores-algoritmos-pascal-c-c-padrao-ansi-e-java-pdfdrive/mode/2up) escrito por *Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos*.
+Este repositório foi criado com o objetivo de disponibilizar e atualizar os exercícios propostos e resolvidos dos *capítulos 03, 04, 05 e *08* do livro [Fundamentos da Programação de Computadores: Algoritmos, Pascal, C/C++ e Java (2012)](https://archive.org/details/fundamentos-da-programacao-de-computadores-algoritmos-pascal-c-c-padrao-ansi-e-java-pdfdrive/mode/2up) escrito por *Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos*.
 
 Para resolver esses exercícios, foi utilizado a linguagem de programação **Java**, ensinada na disciplina da turma do TIP4 no período 2025.2 no IFCE-MPE, a Programação Orientada a Objetos.
 
@@ -29,8 +29,7 @@ Para resolver esses exercícios, foi utilizado a linguagem de programação **Ja
 
 ### Lista 03
 | Capítulos | Páginas |
-| :-- | :-- | 
-| **06 (Vetor)** | 159-171 |
+| :-- | :-- |
 | **08 (Sub-rotina)** | 277-283 |
 
 
@@ -52,9 +51,6 @@ POO-2025.2-TIP4/
 │        ├── Exercicios-Resolvidos/
 │        └── README.md
 ├── Lista-03/
-│   ├── CAP06/
-│   │    ├── Exercicios-Resolvidos/
-│   │    └── README.md
 │   └── CAP08/
 │        ├── Exercicios-Resolvidos/
 │        └── README.md
