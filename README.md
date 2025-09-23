@@ -30,7 +30,7 @@ Para resolver esses exercícios, foi utilizado a linguagem de programação **Ja
 ### Lista 03
 | Capítulos | Páginas |
 | :-- | :-- |
-| **08 (Sub-rotina)** | 277-283 |
+| **08 (Sub-rotina)** | 277-283, |
 
 
 ## 🧱 Estrutura do repositório
@@ -52,6 +52,7 @@ POO-2025.2-TIP4/
 │        └── README.md
 ├── Lista-03/
 │   └── CAP08/
+│        ├── Exercicios-Propostos/
 │        ├── Exercicios-Resolvidos/
 │        └── README.md
 └── README.md

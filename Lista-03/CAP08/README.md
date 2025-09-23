@@ -1,6 +1,7 @@
 # Enunciado dos exercícios
 
 **Resolvidos:** questões de 1 a 10 que possuem soluções dadas no livro.
+**Propostos:** questões de 1 a 5 propostas pelo livro.
 
 | Questão | Enunciado dos exercícios resolvidos |
 | :--:  | :-- |
@@ -14,3 +15,11 @@
 |8 | Crie uma sub-rotina que receba como parâmetro a hora de início e a hora de término de um jogo, ambas subdivididas em dois valores distintos: horas e minutos. A sub-rotina deverá retornar a duração expressa em minutos, considerando que o tempo máximo de duração de um jogo é de 24 horas e que ele pode começar em um dia e terminar no outro. |
 |9 | Faça uma sub-rotina que leia cinco valores inteiros, determine e mostre o maior e o menor deles. |
 |10 | Crie uma sub-rotina que receba como parâmetro um valor inteiro e positivo N e retorne o valor de S, obtido pelo seguinte cálculo: S = 1 + 1/1! + 1/2! + 1/3! + ... + 1/N! |
+
+| Questão | Enunciado dos exercícios propostos |
+| :--: | :-- |
+| 1 | Faça uma sub-rotina que receba um número inteiro e positivo N como parâmetro e retorne a soma dos números inteiros existentes entre o número 1 e N (inclusive). |
+| 2 | Crie uma sub-rotina que receba três números inteiros como parâmetros, representando horas, minutos e segundos, e os converta em segundos. Exemplo: 2h, 40min e 10s correspondem a 9.610 segundos. |
+| 3 | Elabore uma sub-rotina que receba dois números como parâmetros e retorne 0, se o primeiro número for divisível pelo segundo número. Caso contrário, deverá retornar o próximo divisor. |
+| 4 | Faça uma sub-rotina que receba como parâmetro o raio de uma esfera, calcule e mostre no programa principal o seu volume: v = 4/3 * R3 . |
+| 5 | Faça uma sub-rotina que receba um valor inteiro e verifique se ele é positivo ou negativo. |
