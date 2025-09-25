@@ -11,14 +11,14 @@ public class Principal {
 		do {	
 			System.out.println("Digite o valor de a:");
 			a = sc.nextInt();
-		} while (a>1);
+		} while (a<=1);
 		
 		System.out.println("Digite o valor de b:");
 		b = sc.nextInt();
 		System.out.println("Digite o valor de c:");
 		c = sc.nextInt();
 		
-		int result = somadiv.divisores(a,b,c);
+		int result = divisores.divisores(a,b,c);
 		System.out.println("Soma dos inteiros = " + result);
 	}
 
