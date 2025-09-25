@@ -1,6 +1,6 @@
 # Enunciado dos exercícios
 
-**Resolvidos:** questões de 1 a 10 que possuem soluções dadas no livro.
+**Resolvidos:** questões de 1 a 10 que possuem soluções dadas no livro./
 **Propostos:** questões de 1 a 5 propostas pelo livro.
 
 | Questão | Enunciado dos exercícios resolvidos |
@@ -23,3 +23,4 @@
 | 3 | Elabore uma sub-rotina que receba dois números como parâmetros e retorne 0, se o primeiro número for divisível pelo segundo número. Caso contrário, deverá retornar o próximo divisor. |
 | 4 | Faça uma sub-rotina que receba como parâmetro o raio de uma esfera, calcule e mostre no programa principal o seu volume: v = 4/3 * R3 . |
 | 5 | Faça uma sub-rotina que receba um valor inteiro e verifique se ele é positivo ou negativo. |
+
