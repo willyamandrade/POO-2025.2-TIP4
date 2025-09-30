@@ -58,6 +58,22 @@ POO-2025.2-TIP4/
 └── README.md
 ```
 
+## 🛃 Exemplo de como chegar em um código-fonte
+
+```
+POO-2025.2-TIP4/
+├── Lista-01/
+│   ├── Exercicios-Propostos/
+|   |   ├── Q01/
+|   |   |   ├── bin/br/edu/principal/
+|   |   |   └── src/br/edu/principal/
+|   |   |       └── Principal.java <-- código-fonte
+|   |   ├── ...
+|   |   └── Q05/
+│   ├── Exercicios-Resolvidos/
+│   └── README.md
+```
+
 ## ☕ Informações
 - **Professor responsável:** Roger Moura Sarmento
 - **Linguagem de programação:** Java
